@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(217, 100%, 92%);
+    text-align: center;
+    font-family: "Outfit";
+}
+
+h2{
+    color: hsl(218, 44%, 22%);
+}
+
+p{
+    color: grey;
+    font-size: 15px;
+}
+
+.qr-box{
+    background-color: #fff;
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 3%;
+}
+
+.qr-img{
+    height: 380px;
+    width: 350px;
+    border-radius: 8%;
+    margin: 15px 5px 25px 5px;
+}
+
+.attribution{
+    margin-top: 50px;
+    text-align: right;
+}
