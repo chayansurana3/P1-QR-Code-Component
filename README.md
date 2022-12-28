@@ -12,7 +12,7 @@ I have created the QR-code component as shown in the desktop and mobile preview 
 
   ### Screenshot
 
-  /QR-Screenshot.png
+  ![ScreenShot](./QR-Screenshot.png)
 
   ### Links
 
